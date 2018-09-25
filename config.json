@@ -1,1 +1,4 @@
-//config 
+{
+    "connectionString": "mongodb://localhost/node-login",
+    "secret": "aasdkfhqweoiugcvbznxmvba2387ywiusdfha02ufa0w92gefw061732udgxvznsdbvqpwe"
+}
